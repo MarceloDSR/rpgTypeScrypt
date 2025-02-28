@@ -1,0 +1,3 @@
+class Guerreiro extends Personagem{
+    
+}

@@ -1,0 +1,3 @@
+class Arqueiro extends Personagem{
+    
+}
