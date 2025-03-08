@@ -1,5 +1,5 @@
 import { Jogo } from "./JOGO/Jogo";
-import { ReadLine } from "readline";
+import * as readline from "readline";
 
 const jogo = new Jogo();
 jogo.iniciar();

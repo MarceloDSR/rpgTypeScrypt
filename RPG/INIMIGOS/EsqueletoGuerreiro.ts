@@ -37,7 +37,7 @@ export class EsqueletoGuerreiro implements Inimigo {
     }
 
     usarItem(item: Item): void {
-        console.log(`${this.nome} tentou usar um item, mas dragões não usam itens!`);
+        console.log(`${this.nome} tentou usar um item, mas Esqueletos enfraquecidos não usam itens!`);
     }
 
     estaVivo(): boolean {
